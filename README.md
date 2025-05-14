@@ -22,3 +22,23 @@ Você pode baixar ou clonar este repositório e abrir o arquivo `index.html` no 
 ```bash
 git clone https://github.com/amandapapalardo/meu-primeiro-projeto.git
 
+📘 Aprendizados
+Neste projeto, aprendi:
+
+Estrutura básica de uma página HTML
+
+Criação de formulários com <input> e <label>
+
+Estilização com CSS usando classes, alinhamento e cores
+
+Organização e indentação de código limpo
+
+🔜 Próximos passos
+Adicionar validação de formulário com JavaScript
+
+Publicar a página no GitHub Pages
+
+🙋‍♀️ Contato
+Feito por Amanda Papalardo
+GitHub
+Email: amandapapalardo1211@gmail.com
